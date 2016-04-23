@@ -15,18 +15,6 @@
 		4478928A1CCB13FE0010A894 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 447892881CCB13FE0010A894 /* LaunchScreen.storyboard */; };
 		447892951CCB13FE0010A894 /* DQSampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 447892941CCB13FE0010A894 /* DQSampleTests.m */; };
 		447892A01CCB13FE0010A894 /* DQSampleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4478929F1CCB13FE0010A894 /* DQSampleUITests.m */; };
-		447892BE1CCB47E10010A894 /* saxs-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BA1CCB47E10010A894 /* saxs-1.jpg */; };
-		447892BF1CCB47E10010A894 /* saxs-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BA1CCB47E10010A894 /* saxs-1.jpg */; };
-		447892C01CCB47E10010A894 /* saxs-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BA1CCB47E10010A894 /* saxs-1.jpg */; };
-		447892C11CCB47E10010A894 /* saxs-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BB1CCB47E10010A894 /* saxs-2.jpg */; };
-		447892C21CCB47E10010A894 /* saxs-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BB1CCB47E10010A894 /* saxs-2.jpg */; };
-		447892C31CCB47E10010A894 /* saxs-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BB1CCB47E10010A894 /* saxs-2.jpg */; };
-		447892C41CCB47E10010A894 /* saxs-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BC1CCB47E10010A894 /* saxs-3.jpg */; };
-		447892C51CCB47E10010A894 /* saxs-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BC1CCB47E10010A894 /* saxs-3.jpg */; };
-		447892C61CCB47E10010A894 /* saxs-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BC1CCB47E10010A894 /* saxs-3.jpg */; };
-		447892C71CCB47E10010A894 /* saxs-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BD1CCB47E10010A894 /* saxs-4.jpg */; };
-		447892C81CCB47E10010A894 /* saxs-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BD1CCB47E10010A894 /* saxs-4.jpg */; };
-		447892C91CCB47E10010A894 /* saxs-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 447892BD1CCB47E10010A894 /* saxs-4.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,10 +51,6 @@
 		4478929B1CCB13FE0010A894 /* DQSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DQSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4478929F1CCB13FE0010A894 /* DQSampleUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DQSampleUITests.m; sourceTree = "<group>"; };
 		447892A11CCB13FE0010A894 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		447892BA1CCB47E10010A894 /* saxs-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "saxs-1.jpg"; sourceTree = "<group>"; };
-		447892BB1CCB47E10010A894 /* saxs-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "saxs-2.jpg"; sourceTree = "<group>"; };
-		447892BC1CCB47E10010A894 /* saxs-3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "saxs-3.jpg"; sourceTree = "<group>"; };
-		447892BD1CCB47E10010A894 /* saxs-4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "saxs-4.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,10 +144,6 @@
 		447892AD1CCB14680010A894 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
-				447892BA1CCB47E10010A894 /* saxs-1.jpg */,
-				447892BB1CCB47E10010A894 /* saxs-2.jpg */,
-				447892BC1CCB47E10010A894 /* saxs-3.jpg */,
-				447892BD1CCB47E10010A894 /* saxs-4.jpg */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
@@ -271,13 +251,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				447892C41CCB47E10010A894 /* saxs-3.jpg in Resources */,
 				4478928A1CCB13FE0010A894 /* LaunchScreen.storyboard in Resources */,
 				447892871CCB13FE0010A894 /* Assets.xcassets in Resources */,
-				447892BE1CCB47E10010A894 /* saxs-1.jpg in Resources */,
 				447892851CCB13FE0010A894 /* Main.storyboard in Resources */,
-				447892C11CCB47E10010A894 /* saxs-2.jpg in Resources */,
-				447892C71CCB47E10010A894 /* saxs-4.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,10 +261,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				447892C51CCB47E10010A894 /* saxs-3.jpg in Resources */,
-				447892C81CCB47E10010A894 /* saxs-4.jpg in Resources */,
-				447892BF1CCB47E10010A894 /* saxs-1.jpg in Resources */,
-				447892C21CCB47E10010A894 /* saxs-2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -296,10 +268,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				447892C61CCB47E10010A894 /* saxs-3.jpg in Resources */,
-				447892C91CCB47E10010A894 /* saxs-4.jpg in Resources */,
-				447892C01CCB47E10010A894 /* saxs-1.jpg in Resources */,
-				447892C31CCB47E10010A894 /* saxs-2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

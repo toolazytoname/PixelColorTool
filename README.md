@@ -1,11 +1,11 @@
 # PixelColorTool
-make a tool for Doctor Du \n
+make a tool for Doctor Du
 input a jpg image
+
 and you will get the output as follows in you document Directory.
 for less data I have filteded the back pix.
 
 output:
-
 x:8.000000;y:544.000000;colors: RGB A 252 252 252  255
 x:8.000000;y:546.000000;colors: RGB A 252 252 252  255
 x:8.000000;y:549.000000;colors: RGB A 251 251 251  255

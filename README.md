@@ -1,5 +1,5 @@
 # PixelColorTool
-make a tool for Doctor Du
+make a tool for Doctor Du \n
 input a jpg image
 and you will get the output as follows in you document Directory.
 for less data I have filteded the back pix.
